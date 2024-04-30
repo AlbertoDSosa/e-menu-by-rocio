@@ -1,0 +1,7 @@
+{
+  "name": "menu-by-rocio",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

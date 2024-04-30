@@ -1,0 +1,14 @@
+{
+  "appId": "com.beatandcode.menubyrocio",
+  "appName": "menu-by-rocio",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "build",
+  "linuxAndroidStudioPath": "/opt/android-studio/bin/studio.sh",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {}
+}
